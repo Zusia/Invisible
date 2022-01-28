@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\Downloads\Compressed\Invisible2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\kiit\Downloads\Compressed\Invisible2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2c8c28b83ed7f46733f58f5c1bfb13adb8a06d3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\Downloads\Compressed\Invisible2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9ca36ff381f0c3223cadd660edcb11d61d362385">
+        <dex dex="C:\Users\kiit\Downloads\Compressed\Invisible2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d4d7e08b094aa1c1c878490b579065fd8060d458\classes.dex" />
+    </item>
+
+</items>

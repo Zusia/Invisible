@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\kiit\\.android\\build-cache\\2c586277539b8c1fd6f93e204a5260ed9169e61d\\output\\res\\anim\\abc_popup_enter.xml"
+    }
+]

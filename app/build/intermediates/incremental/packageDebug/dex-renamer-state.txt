@@ -1,0 +1,7 @@
+#Thu Oct 26 23:01:42 IST 2017
+base.0=C\:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4d7e08b094aa1c1c878490b579065fd8060d458
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2c8c28b83ed7f46733f58f5c1bfb13adb8a06d3c\\classes.dex
+base.1=C\:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2c8c28b83ed7f46733f58f5c1bfb13adb8a06d3c
+file.0=C\:\\Users\\kiit\\Downloads\\Compressed\\Invisible2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4d7e08b094aa1c1c878490b579065fd8060d458\\classes.dex
