@@ -1,0 +1,7 @@
+#Wed Oct 25 17:44:23 IST 2017
+base.0=C\:\\Users\\kiit\\AndroidStudioProjects\\Invisible\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bbde1d97280c170fe1bb430685c58c494c3aa935
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\kiit\\AndroidStudioProjects\\Invisible\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e1ff62c65cb6060cb7b66b0a9f9a31e49e4f78d\\classes.dex
+base.1=C\:\\Users\\kiit\\AndroidStudioProjects\\Invisible\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e1ff62c65cb6060cb7b66b0a9f9a31e49e4f78d
+file.0=C\:\\Users\\kiit\\AndroidStudioProjects\\Invisible\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bbde1d97280c170fe1bb430685c58c494c3aa935\\classes.dex

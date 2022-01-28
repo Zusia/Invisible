@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e1ff62c65cb6060cb7b66b0a9f9a31e49e4f78d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\f69716be7c1105def211d9456a1a98d13426c203\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0d45688102c513276c49d6cbac11c0d69faf6ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\38bdead9e601cdeeb5dbb84106fdca07c2bc2f4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47524347a3a025ca083ba0d577528a771e7a4f19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\9b5742da95063e8ccc14c4b7bd47426283b03b4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6027f4a4b3f09b0398aff358675834e742ecbfee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_61d39fddee07b3866ae089c3681adeda1770d56e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b819b8d70f567133f02f6b8ce06681a21e3bca">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bbde1d97280c170fe1bb430685c58c494c3aa935\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\dad2432a8b4c505c6bdef934232fe4ec4995e090\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b39bd75af7a31525e5c75c3efa56f6b32cf9b155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\56778fd7bf278986f35d0482a461d373d5543a38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c583f602f132f45c04df598d94e834c4717038c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\c310eab545667c4735dec159d4eccc4c802be45e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c35d886108375d9aadb667bc92dc18de8e5e19d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\2c586277539b8c1fd6f93e204a5260ed9169e61d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e5e6e624123fcf8d0a0d37ca0ad2085e171eeac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_7f5c9d4f647d24a164f9774621cd95f12d8125b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\621c8b3edde4ab7e18919b471bca52b828d3cf19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4fba80d6cae4dec9de6a59fd8eb54e40633eb5a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\33c40a14017f01c5113c9168be56b1dddd7cdefd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1002feb7b371e6652d0990f7c4793be818db363e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kiit\.android\build-cache\b3bac33fa4f66449a8005c536511c176faedc38e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\kiit\AndroidStudioProjects\Invisible\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f62e55aaaa2876d4175bc3747de1af70dc1444d\classes.dex" />
+    </item>
+
+</items>
